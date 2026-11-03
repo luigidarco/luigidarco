@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Aplicações web e APIs**
 
-Desenvolvo aplicações, APIs e integrações. Tenho experiência em desenvolvimento de software e passagem pela Accenture.
+Desenvolvo aplicações, APIs e integrações. Tenho experiência em desenvolvimento de software e sistemas embarcados (IoT) em Raspberry, Orange PI, arduino, Zigbee, etc.
 
 ## Projetos em destaque
 
